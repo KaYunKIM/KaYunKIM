@@ -2,7 +2,7 @@
 - 👩‍💻 I’m interested in automating Data & ML Model CD Pipeline.
 - 📚 I’m currently learning Airflow & Docker.
 - 💡 I’m looking to collaborate on Apache Airflow.
-- 📫 How to reach me 👉 gayun1109@naver.com
+- 📫 How to reach me 👉 gayun1109@gmail.com
 - 👀 For further details, visit my blog 👉 https://ninano1109.tistory.com/
 
 <!---
