@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KaYunKIM.
+- 👋 Hi, I’m KaYun KIM.
 - 👩‍💻 I’m interested in automating Data & ML Model CD Pipeline.
 - 📚 I’m currently learning Airflow & Docker.
 - 💡 I’m looking to collaborate on Apache Airflow.
