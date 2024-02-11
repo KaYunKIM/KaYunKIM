@@ -1,6 +1,6 @@
 - 👋 Hi, I’m KaYun KIM.
-- 👩‍💻 I’m interested in automating Data & ML Model CD Pipeline.
-- 📚 I’m currently learning Airflow & Docker.
+- 👩‍💻 I’m interested in Data Automation & building Data Pipelines.
+- 📚 I’m currently learning Airflow, Datahub, Databricks.
 - 💡 I’m looking to collaborate on Apache Airflow.
 - 📫 How to reach me 👉 kayunkim9@gmail.com
 - 👀 For further details, visit my blog 👉 https://ninano1109.tistory.com/
